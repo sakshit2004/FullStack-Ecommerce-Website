@@ -72,7 +72,7 @@ include 'main.css';
 <div class="banner">
     <div class="detail">
         <h1>product detail</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p></p>
         <a href="index.php">Home </a><span>/<a href="about.php"> About </a></span><span>/<a href="shop.php"> Shop</a></span>
     </div>
 </div>
