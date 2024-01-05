@@ -17,6 +17,7 @@ Welcome to the Peanut Butter Ecommerce Website repository! This project is a com
 12. [Documentation](#documentation)
 13. [Future Enhancements](#future-enhancements)
 14. [Conclusion](#conclusion)
+15. [ScreenShots]
 
 ## Introduction
 
@@ -90,7 +91,7 @@ Explore potential future enhancements such as customer reviews, wish lists, and 
 
 This project aims to provide a secure, user-friendly, and efficient ecommerce platform for peanut butter enthusiasts. Regular testing and maintenance are essential for optimal performance and security.
 
-#Screenshots
+## Screenshots
 
 ![]("C:\Users\saksh\OneDrive\Desktop\Project Ecommerce.png")
 
