@@ -34,7 +34,7 @@
     <div class="banner">
         <div class="detail">
             <h1>admin dashboard</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>INFORMATION ABOUT ORDERS</p>
         </div>
     </div>
     <div class="line"></div>
