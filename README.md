@@ -93,6 +93,3 @@ This project aims to provide a secure, user-friendly, and efficient ecommerce pl
 
 ## Screenshots
 
-![]("C:\Users\saksh\OneDrive\Desktop\Project Ecommerce.png")
-
-
