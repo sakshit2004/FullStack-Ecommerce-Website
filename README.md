@@ -89,3 +89,8 @@ Explore potential future enhancements such as customer reviews, wish lists, and 
 ## Conclusion
 
 This project aims to provide a secure, user-friendly, and efficient ecommerce platform for peanut butter enthusiasts. Regular testing and maintenance are essential for optimal performance and security.
+
+
+![]("C:\Users\saksh\OneDrive\Desktop\Project Ecommerce.png")
+
+
