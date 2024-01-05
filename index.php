@@ -82,7 +82,7 @@
                 <div class="slider-caption">
                     <span>Test the Quality</span>
                     <h1>Organic premium <br>Peanuts</h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, vero?</p>
+                    <p>Introducing our Organic Premium Peanuts, a wholesome and nutritious delight for the discerning palate. Sourced from the finest organic farms, these premium peanuts are cultivated with care, ensuring a product that is free from synthetic pesticides and additives. Bursting with natural flavor, these peanuts are a guilt-free indulgence, rich in protein, fiber, and essential nutrients. Whether enjoyed as a snack on their own, added to salads, or incorporated into your favorite recipes, our Organic Premium Peanuts offer a deliciously wholesome experience that aligns with your commitment to a healthier lifestyle. Elevate your snacking experience with the pure goodness of organically grown, premium-quality peanuts.</p>
                     <a href="shop.php" class="btn">shop now</a>
                 </div>
             </div>
@@ -94,7 +94,7 @@
             <img src="img/0.png">
             <div>
                 <h1>Free shipping fast</h1>
-                <p>Lorem ipsum dolor sit.<p>
+                <p>Experience the convenience of swift and cost-free shipping with our commitment to delivering your orders promptly and efficiently.<p>
             </div>
             </div>
 
@@ -102,14 +102,14 @@
             <img src="img/1.png">
             <div>
                 <h1>Money back guarantee</h1>
-                <p>Lorem ipsum dolor sit.<p>
+                <p>We stand behind the quality of our products, and to ensure your confidence and satisfaction in every purchase, we offer a money-back guarantee. <p>
             </div>
             </div>
             <div class="box">
             <img src="img/2.png">
             <div>
                 <h1>Online support 24/7</h1>
-                <p>Lorem ipsum dolor sit.<p>
+                <p>Our commitment to customer satisfaction is unwavering, which is why we are proud to offer online support 24/7.<p>
             </div>
             </div>
         </div>
@@ -120,9 +120,7 @@
         <div class="box">
             <span>Our Story</span>  
             <h1>Production of natural hone since 1990</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, 
-                adipisci aut tempore facere aspernatur, ullam ab repellendus 
-                quibusdam vel culpa deserunt quisquam.</p>
+            <p>Pioneering the production of natural honey since 1990, our commitment to quality and authenticity has been the hallmark of our brand. With a legacy rooted in beekeeping expertise, we have meticulously crafted a range of pure and unadulterated honey products. Our journey began with a passion for preserving the natural goodness of honey, and over the decades, we have maintained our dedication to sustainable beekeeping practices and ethical honey production.</p>
             <a href="shop.php" class="btn">shop now</a>
 </div>
 <div class="box">
@@ -140,7 +138,7 @@
         <h1 class="title">Organic Peanuts Be Healthy</h1>
         <span>Buy Now And Save 30% off!</span>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem animi tempora asperiores excepturi explicabo ad obcaecati, delectus fugiat omnis dicta illum magnam culpa neque sunt, molestias veritatis quae odio numquam.
+           This limited-time promotion is our way of showing appreciation for your support. Don't miss the chance to get your favorite products at a fantastic discounted price.
         </p>
         <a href="shop.php" class="btn">discover now</a>
     </div>
