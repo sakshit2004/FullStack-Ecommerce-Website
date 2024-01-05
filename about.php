@@ -36,7 +36,7 @@
     <div class="banner">
         <div class="detail">
             <h1>about us</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Welcome to Pure Peanut, your go-to destination for exquisite peanut butter experiences!.</p>
             <a href="index.php">home</a><span>/ about us</span>
         </div>
     </div>
@@ -49,14 +49,7 @@
                 <div class="title">
                     <span>About our online store</span>
                     <h1>Hello, With 25 years of experience</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Ut dignissim tortor ut luctus laoreet. Vestibulum vitae tortor varius, convallis nisl ut, tempus nisi.
-                          Nulla velit erat, aliquet interdum libero ac, iaculis scelerisque elit.
-                           Etiam ac enim molestie, volutpat risus commodo, molestie eros.
-                            Fusce nec odio varius dolor hendrerit pretium eu efficitur ante.
-                             Aliquam efficitur tellus sed nulla rutrum, ut efficitur odio sagittis.
-                              Donec eget nunc euismod, ullamcorper elit in, faucibus tortor.
-                               Aliquam ac lacus at tellus volutpat tristique. Vivamus non semper justo.</p>
+                    <p>Our journey started with a genuine passion for celebrating the natural simplicity of peanuts. Sourced directly from trusted farmers, our peanuts are a testament to our commitment to providing you with a wholesome and unadulterated experience. We believe in letting the pure, authentic flavor of peanuts shine, whether you enjoy them as a snack, part of a recipe, or in their various forms.</p>
 </div>
 <div class="img-box">
     <img src="img/about3.png">
@@ -185,30 +178,25 @@
                 <i class="bi bi-stack"></i>
                     <div class="detail">
                         <h2>What we really do</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Ut dignissim tortor ut luctus laoreet. Vestibulum vitae tortor varius, convallis nisl ut, tempus nisi.
-                          Nulla velit erat, aliquet interdum libero ac, iaculis scelerisque elit.
-                           Etiam ac enim molestie</p>
+                        <p>In essence, what we really do is strive for excellence in every facet of our business. We are not just selling products; we are building relationships, fostering innovation, improving lives, embracing sustainability, and upholding the highest standards of integrity.
+                            Welcome to a journey where our actions speak louder than words, and our impact goes beyond the ordinary.</p>
                     </div>
             </div>
             <div class="box">
                 <i class="bi bi-grid-1x2-fill"></i>
                     <div class="detail">
                         <h2>History of Beginning</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Ut dignissim tortor ut luctus laoreet. Vestibulum vitae tortor varius, convallis nisl ut, tempus nisi.
-                          Nulla velit erat, aliquet interdum libero ac, iaculis scelerisque elit.
-                           Etiam ac enim molestie</p>
+                        <p>The history of our beginning is a narrative of growth, adaptation, and a relentless pursuit of our vision.
+                            It is a story that involves the contributions of every member of our team, the support of our customers, and the evolving landscape</p>
                     </div>
             </div>
             <div class="box">
                 <i class="bi bi-tropical-storm"></i>
                     <div class="detail">
                         <h2>Our Vision</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Ut dignissim tortor ut luctus laoreet. Vestibulum vitae tortor varius, convallis nisl ut, tempus nisi.
-                          Nulla velit erat, aliquet interdum libero ac, iaculis scelerisque elit.
-                           Etiam ac enim molestie</p>
+                        <p>As we pursue our vision, we understand that it is a journey, not a destination.
+                            It requires dedication, collaboration, and a continuous pursuit of improvement.
+                            Our vision serves as a compass, guiding us through the challenges and triumphs, and inspiring us to create a future </p>
                     </div>
             </div>
         </div>
